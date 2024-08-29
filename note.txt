@@ -1,1 +1,2 @@
 nodemon --inspect index.js  --debug (package.json)
+https://www.youtube.com/watch?v=N8GhaR7K3tI&list=PLwJIrGynFq9BZto5VvKw7OEDNxN6plq_3&index=17
